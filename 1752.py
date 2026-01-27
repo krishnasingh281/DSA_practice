@@ -14,7 +14,7 @@ class Solution(object):
                 return False
             
         for i in range(len(nums2)-1):
-            if nums2[i] <= nums2[i+1]:
+            if nums2[i] >= nums2[i+1]:
                 return False       
         return True
     
@@ -22,4 +22,4 @@ class Solution(object):
 nums = [1,1,1,1,1]
 solution = Solution()   
 result = solution.check(nums)
-print(result)  # Output the result
+print(result) 

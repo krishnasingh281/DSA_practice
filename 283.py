@@ -10,4 +10,4 @@ class Solution(object):
 nums = [0,1,0,3,12]
 solution = Solution()       
 result = solution.moveZeroes(nums)
-print(result)  # Output the result
+print(result)
