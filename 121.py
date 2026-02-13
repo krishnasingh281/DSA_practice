@@ -15,5 +15,4 @@ class Solution:
             if current_profit > max_profit:
                 max_profit = current_profit
                 
-        return max_profit
-    
+        return max_profit    
