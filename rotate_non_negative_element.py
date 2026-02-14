@@ -15,8 +15,5 @@ class Solution:
             nums[original_index] = key
         return nums
     
-nums = [1, 2, -3, 4, 5]
-k = 2   
-solution = Solution()
-result = solution.rotateElements(nums, k)
-print(result)
+
+
