@@ -1,5 +1,5 @@
 class Solution:
-    def minimumDifference(self, nums: List[int], k: int) -> int:
+    def minimumDifference(self, nums, k):
         nums.sort()
         ans = 1000000
         for i in range(k-1, len(nums)):
