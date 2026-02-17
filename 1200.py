@@ -1,5 +1,5 @@
 class Solution:
-    def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:
+    def minimumAbsDifference(self, arr):
         mini = 10000000
         arr.sort()
         nums = []
