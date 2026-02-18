@@ -1,5 +1,5 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> List[int]:
+    def majorityElement(self, nums):
         nos = len(nums)//3
         freq_map = {}
         arr = []
