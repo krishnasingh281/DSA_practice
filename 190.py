@@ -1,5 +1,5 @@
 class Solution:
-    def reverseBits(self, n: int) -> int:
+    def reverseBits(self, n):
 
         binary = f"{n:032b}"
         reversed_binary = binary[::-1]
