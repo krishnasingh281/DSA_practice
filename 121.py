@@ -1,5 +1,5 @@
 class Solution:
-    def maxProfit(self, prices: list[int]) -> int:
+    def maxProfit(self, prices):
         mini = float('inf') # Start with a very high number
         max_profit = 0      # Track the best profit found so far
 
