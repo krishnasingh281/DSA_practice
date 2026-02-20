@@ -15,6 +15,5 @@ class Solution(object):
                 return digits
             digits[i] = 0
 
-        # If all digits were 9, we need to add a new digit at the beginning
         return [1] + digits
     
