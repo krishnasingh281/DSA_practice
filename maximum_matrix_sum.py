@@ -15,11 +15,5 @@ class Solution(object):
             total -= 2 * smallest_absolute_value
 
         return total
-# Example usage:
-solution = Solution()   
-matrix = [[1,-1],[-1,1]]
-result = solution.maxMatrixSum(matrix)
-print(result)  # Output the result
-
 
         
