@@ -3,7 +3,6 @@ class Solution:
         max_len = 0
         n = len(nums)
         
-        # Try every possible starting position
         for i in range(n):
             distinct_evens = set()
             distinct_odds = set()
