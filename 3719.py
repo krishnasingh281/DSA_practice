@@ -7,7 +7,6 @@ class Solution:
             distinct_evens = set()
             distinct_odds = set()
             
-            # Expand the subarray from index i to j
             for j in range(i, n):
                 if nums[j] % 2 == 0:
                     distinct_evens.add(nums[j])
