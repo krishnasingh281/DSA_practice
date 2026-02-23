@@ -12,8 +12,7 @@ class Solution:
                     distinct_evens.add(nums[j])
                 else:
                     distinct_odds.add(nums[j])
-                
-                # Check if the current subarray [i...j] is balanced
+
                 if len(distinct_evens) == len(distinct_odds):
                     current_len = j - i + 1
                     max_len = max(max_len, current_len)
