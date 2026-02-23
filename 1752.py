@@ -18,8 +18,4 @@ class Solution(object):
                 return False       
         return True
     
-
-nums = [1,1,1,1,1]
-solution = Solution()   
-result = solution.check(nums)
-print(result) 
+ 
