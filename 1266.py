@@ -23,6 +23,3 @@ class Solution(object):
             
         return total_time
 
-
-sol = Solution()
-print(sol.minTimeToVisitAllPoints([[1,1],[3,4],[-1,0]]))
