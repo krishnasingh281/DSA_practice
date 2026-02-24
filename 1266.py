@@ -18,7 +18,7 @@ class Solution(object):
             dy = abs(y2 - y1)
             
             # The time to move between two points is the max of dx and dy
-            # because diagonal moves cover both axes simultaneously.
+
             total_time += max(dx, dy)
             
         return total_time
