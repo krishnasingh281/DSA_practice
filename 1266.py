@@ -6,7 +6,7 @@ class Solution(object):
         """
         total_time = 0
         
-        # Using xrange for Python 2 efficiency
+        
         for i in range(len(points) - 1):
             # Current point
             x1, y1 = points[i]
