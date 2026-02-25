@@ -1,5 +1,5 @@
 class Solution:
-    def subarraySum(self, nums: List[int], k: int) -> int:
+    def subarraySum(self, nums, k):
         count = 0 
         cur_sum = 0
         prefix_sum = {0:1}
