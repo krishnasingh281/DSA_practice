@@ -17,7 +17,7 @@ class Solution(object):
             dx = abs(x2 - x1)
             dy = abs(y2 - y1)
             
-            # The time to move between two points is the max of dx and dy
+            
 
             total_time += max(dx, dy)
             
