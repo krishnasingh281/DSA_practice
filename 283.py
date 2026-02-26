@@ -7,7 +7,3 @@ class Solution(object):
 
         return nums
     
-nums = [0,1,0,3,12]
-solution = Solution()       
-result = solution.moveZeroes(nums)
-print(result)
