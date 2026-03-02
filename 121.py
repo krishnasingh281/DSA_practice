@@ -4,7 +4,6 @@ class Solution:
         max_profit = 0      # Track the best profit found so far
 
         for price in prices:
-            
             if price < mini:
                 mini = price
             
