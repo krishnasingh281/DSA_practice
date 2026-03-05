@@ -15,9 +15,7 @@ def longestSubarrayWithSumK(a, k):
         if rem in preSumMap:
             length = i - preSumMap[rem]
             maxLen = max(maxLen, length)
-        
         # Case 3: Only add sum to map if it doesn't exist 
         if current_sum not in preSumMap:
-            preSumMap[current_sum] = i
-            
+            preSumMap[current_sum] = i     
     return maxLen
