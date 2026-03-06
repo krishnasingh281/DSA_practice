@@ -1,6 +1,6 @@
 class Solution:
     def maxProfit(self, prices):
-        mini = float('inf') # Start with a very high number
+        mini = float('inf') 
         max_profit = 0      # Track the best profit found so far
 
         for price in prices:
