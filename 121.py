@@ -1,7 +1,7 @@
 class Solution:
     def maxProfit(self, prices):
         mini = float('inf') 
-        max_profit = 0      # Track the best profit found so far
+        max_profit = 0 
 
         for price in prices:
             if price < mini:
