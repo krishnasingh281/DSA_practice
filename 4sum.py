@@ -15,8 +15,7 @@ def fourSum(nums, target):
                     # Create and sort the quadruplet to ensure uniqueness in the set
                     temp = sorted([nums[i], nums[j], nums[k], fourth])
                     st.add(tuple(temp)) # Sets in Python require hashable types like tuples
-                
-                # Add the current element to hashset for future lookups
+
                 hashset.add(nums[k])
 
     return [list(quad) for quad in st]
