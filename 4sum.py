@@ -18,6 +18,5 @@ def fourSum(nums, target):
                 
                 # Add the current element to hashset for future lookups
                 hashset.add(nums[k])
-                
-    # Convert the set of tuples back into a list of lists
+
     return [list(quad) for quad in st]
