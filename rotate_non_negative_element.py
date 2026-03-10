@@ -14,6 +14,3 @@ class Solution:
             original_index = d[key]
             nums[original_index] = key
         return nums
-    
-
-
