@@ -17,5 +17,4 @@ class Solution:
                 break
         remove = len(s) - count
         s_new = s[:remove]
-
         return s_new
