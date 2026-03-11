@@ -7,7 +7,6 @@ class Solution(object):
             digits[-1] += 1
             return digits
 
-        # Handle the case where the last digit is 9
         digits[-1] = 0
         for i in range(len(digits) - 2, -1, -1):
             if digits[i] < 9:
