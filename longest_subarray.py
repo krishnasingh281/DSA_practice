@@ -5,7 +5,6 @@ def longestSubarrayWithSumK(a, k):
     
     for i in range(len(a)):
         current_sum += a[i]
-        
         # Case 1: The sum from the beginning equals k
         if current_sum == k:
             maxLen = max(maxLen, i + 1)
