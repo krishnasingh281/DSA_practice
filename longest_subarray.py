@@ -8,7 +8,6 @@ def longestSubarrayWithSumK(a, k):
         # Case 1: The sum from the beginning equals k
         if current_sum == k:
             maxLen = max(maxLen, i + 1)
-        
         # Case 2: Check if (sum - k) exists in our map
         rem = current_sum - k
         if rem in preSumMap:
