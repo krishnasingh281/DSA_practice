@@ -18,3 +18,26 @@ class Solution:
                 return d
                 
         return -1
+
+
+
+
+import math
+
+class Solution:
+    def smallestDivisor(self, nums: list[int], threshold: int) -> int:
+        def get_sum(d):
+            return sum(math.ceil(x / d) for x in nums)
+        
+        low, high = 1, max(nums)
+        ans = high
+        
+        while low <= high:
+            mid = (low + high) // 2
+            if get_sum(mid) <= threshold:
+                ans = mid
+                high = mid - 1 # Try to find an even smaller divisor
+            else:
+                low = mid + 1 # Sum is too big, need a larger divisor
+        
+        return ans
