@@ -25,6 +25,6 @@ class Solution:
             if can_split(mid):
                 high = mid - 1   # try smaller max sum
             else:
-                low = mid + 1    # need bigger max sum
+                low = mid + 1  
                 
         return low
