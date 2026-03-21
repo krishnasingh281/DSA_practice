@@ -17,7 +17,7 @@ class Solution:
             return subarrays <= k
         
         low = max(nums)      # minimum possible answer
-        high = sum(nums)     # maximum possible answer
+        high = sum(nums)     
         
         while low <= high:
             mid = (low + high) // 2
