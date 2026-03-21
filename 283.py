@@ -4,5 +4,4 @@ class Solution(object):
             if nums[i] == 0:
                 nums.append(0)
                 nums.remove(0)
-
         return nums
