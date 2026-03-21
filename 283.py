@@ -6,4 +6,3 @@ class Solution(object):
                 nums.remove(0)
 
         return nums
-    
