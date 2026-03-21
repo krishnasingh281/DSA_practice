@@ -23,7 +23,7 @@ class Solution:
             mid = (low + high) // 2
             
             if can_split(mid):
-                high = mid - 1   # try smaller max sum
+                high = mid - 1
             else:
                 low = mid + 1  
                 
