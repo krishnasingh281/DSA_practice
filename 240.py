@@ -1,5 +1,5 @@
 class Solution:
-    def searchMatrix(self, mat: List[List[int]], target: int) -> bool:
+    def searchMatrix(self, mat, target):
         
         m=len(mat)
         n=len(mat[0])
