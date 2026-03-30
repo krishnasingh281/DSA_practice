@@ -1,11 +1,9 @@
 import heapq
-
 class EventManager:
 
     def __init__(self, events):
         self.heap = []
         self.events = {}
-
         denqoravil = events
 
         for eventId, priority in denqoravil:
