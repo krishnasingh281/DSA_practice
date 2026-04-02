@@ -13,6 +13,5 @@ class Solution:
             elif mat[i][j]<target:
                 j+=1
             else:
-                i-=1
-                
+                i-=1     
         return False
