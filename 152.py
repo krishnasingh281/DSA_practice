@@ -9,5 +9,4 @@ class Solution:
             mini = min(temp, mini * i, i)
 
             res = max(res, maxi)
-        
         return res
