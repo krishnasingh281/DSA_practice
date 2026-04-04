@@ -1,5 +1,5 @@
 class Solution:
-    def frequencySort(self, s: str) -> str:
+    def frequencySort(self, s):
         counts = {}
         for char in s:
             counts[char] = counts.get(char, 0) + 1
