@@ -1,5 +1,5 @@
 class Solution:
-    def minAddToMakeValid(self, s: str) -> int:
+    def minAddToMakeValid(self, s):
 
         dial1 = 0
         dial2 = 0
