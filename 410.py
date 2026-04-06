@@ -16,7 +16,6 @@ class Solution:
         
         low = max(nums) 
         high = sum(nums)     
-        
         while low <= high:
             mid = (low + high) // 2
             
