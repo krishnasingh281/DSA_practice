@@ -17,7 +17,6 @@ class Solution:
 
         return res
 
-
     def expand(self, s, l, r):
         while l>=0 and r<len(s) and s[l] == s[r]:
             l-=1
