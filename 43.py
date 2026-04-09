@@ -4,7 +4,6 @@ class Solution:
             return "0"
 
         res = [0] * (len(num1) + len(num2))
-
         num1, num2 = num1[::-1], num2[::-1]
         
         for i in range(len(num1)):
