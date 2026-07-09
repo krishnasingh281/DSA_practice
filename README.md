@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishnasingh281/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
