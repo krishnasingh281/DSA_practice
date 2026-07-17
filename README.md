@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnasingh281/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/krishnasingh281/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnasingh281/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishnasingh281/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasingh281/DSA_practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/0128-longest-consecutive-sequence) |
+| [0904-fruit-into-baskets](https://github.com/krishnasingh281/DSA_practice/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/krishnasingh281/DSA_practice/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
