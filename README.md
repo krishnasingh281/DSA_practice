@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/krishnasingh281/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnasingh281/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasingh281/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/krishnasingh281/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishnasingh281/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasingh281/DSA_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/krishnasingh281/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasingh281/DSA_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/krishnasingh281/DSA_practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
