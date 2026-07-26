@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnasingh281/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/krishnasingh281/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasingh281/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/krishnasingh281/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnasingh281/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/krishnasingh281/DSA_practice/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnasingh281/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/krishnasingh281/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/krishnasingh281/DSA_practice/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnasingh281/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasingh281/DSA_practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnasingh281/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/krishnasingh281/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasingh281/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3499-maximize-active-section-with-trade-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/krishnasingh281/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
