@@ -4,14 +4,14 @@ class Solution:
         slow = 0
         fast = 0
         
-        # Phase 1: Find the intersection point in the cycle
+        
         while True:
             slow = nums[slow]
             fast = nums[nums[fast]]
             if slow == fast:
                 break
 
-        # Phase 2: Find the entrance to the cycle (the duplicate number)
+   
         slow = 0
         while slow != fast:
             slow = nums[slow]
