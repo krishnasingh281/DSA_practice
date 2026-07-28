@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/krishnasingh281/DSA_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasingh281/DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/krishnasingh281/DSA_practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/krishnasingh281/DSA_practice/tree/master/0904-fruit-into-baskets) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/krishnasingh281/DSA_practice/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/krishnasingh281/DSA_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnasingh281/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/krishnasingh281/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/krishnasingh281/DSA_practice/tree/master/0567-permutation-in-string) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/krishnasingh281/DSA_practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
