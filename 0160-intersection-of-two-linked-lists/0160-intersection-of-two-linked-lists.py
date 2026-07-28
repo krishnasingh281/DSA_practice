@@ -1,15 +1,10 @@
 class Solution:
-    def changeSign(self, head: ListNode):
-        while ( head ):
-            head.val *= -1
-            head = head.next
-    
-    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
-        self.changeSign(headA)
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+        lista = headA
+        listb = headB
+
+        while lista != listb:
+            lista = lista.next if lista else headB
+            listb = listb.next if listb else headA
         
-        while ( headB ):
-            if headB.val < 0:break
-            headB = headB.next
-        
-        self.changeSign(headA)
-        return headB
+        return listb
