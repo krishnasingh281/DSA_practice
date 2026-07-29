@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/krishnasingh281/DSA_practice/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/krishnasingh281/DSA_practice/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishnasingh281/DSA_practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishnasingh281/DSA_practice/tree/master/0160-intersection-of-two-linked-lists) |
