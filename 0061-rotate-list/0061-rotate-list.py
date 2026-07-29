@@ -19,6 +19,5 @@ class Solution:
         count.next = head
         head = p.next
         p.next = None
-        
-        # 7. Return the new rotated list
+
         return head
