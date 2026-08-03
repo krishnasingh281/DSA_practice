@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/krishnasingh281/DSA_practice/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasingh281/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishnasingh281/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/krishnasingh281/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasingh281/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/krishnasingh281/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnasingh281/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasingh281/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnasingh281/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasingh281/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0143-reorder-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
