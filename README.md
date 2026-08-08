@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/krishnasingh281/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krishnasingh281/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krishnasingh281/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
