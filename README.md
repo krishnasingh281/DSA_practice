@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/krishnasingh281/DSA_practice/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasingh281/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishnasingh281/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/krishnasingh281/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnasingh281/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasingh281/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/krishnasingh281/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishnasingh281/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasingh281/DSA_practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/krishnasingh281/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasingh281/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasingh281/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/1140-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -165,14 +169,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/1140-stone-game-ii) |
 ## Design
 |  |
 | ------- |
