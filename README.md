@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/krishnasingh281/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasingh281/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/krishnasingh281/DSA_practice/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnasingh281/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasingh281/DSA_practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/krishnasingh281/DSA_practice/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
