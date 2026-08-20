@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/krishnasingh281/DSA_practice/tree/master/3731-find-missing-elements) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/krishnasingh281/DSA_practice/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/krishnasingh281/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasingh281/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/krishnasingh281/DSA_practice/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krishnasingh281/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasingh281/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/1140-stone-game-ii) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/krishnasingh281/DSA_practice/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## String
 |  |
 | ------- |
