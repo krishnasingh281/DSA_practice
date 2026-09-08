@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krishnasingh281/DSA_practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/krishnasingh281/DSA_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3340-check-balanced-string](https://github.com/krishnasingh281/DSA_practice/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
