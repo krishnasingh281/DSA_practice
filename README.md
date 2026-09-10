@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnasingh281/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/krishnasingh281/DSA_practice/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/krishnasingh281/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasingh281/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/krishnasingh281/DSA_practice/tree/master/0877-stone-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/krishnasingh281/DSA_practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/krishnasingh281/DSA_practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/krishnasingh281/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
