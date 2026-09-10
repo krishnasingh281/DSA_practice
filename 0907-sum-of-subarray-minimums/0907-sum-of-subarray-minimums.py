@@ -9,9 +9,9 @@ class Solution:
         
         for i in range(n):
             
-            while st and A[st[-1]] > A[i]: # monotonic increasing stack
+            while st and A[st[-1]] > A[i]:
                 mid = st.pop()
-                left = st[-1] # previous smaller element
+                left = st[-1]
                 right = i 
                 
                 res += A[mid] * (mid - left) * (right - mid)
