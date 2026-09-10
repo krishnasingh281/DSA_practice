@@ -12,7 +12,7 @@ class Solution:
             while st and A[st[-1]] > A[i]: # monotonic increasing stack
                 mid = st.pop()
                 left = st[-1] # previous smaller element
-                right = i #next smaller element
+                right = i 
                 
                 res += A[mid] * (mid - left) * (right - mid)
             
