@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/krishnasingh281/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/krishnasingh281/DSA_practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/krishnasingh281/DSA_practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasingh281/DSA_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krishnasingh281/DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/krishnasingh281/DSA_practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/krishnasingh281/DSA_practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasingh281/DSA_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/krishnasingh281/DSA_practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/krishnasingh281/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/krishnasingh281/DSA_practice/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishnasingh281/DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/krishnasingh281/DSA_practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
