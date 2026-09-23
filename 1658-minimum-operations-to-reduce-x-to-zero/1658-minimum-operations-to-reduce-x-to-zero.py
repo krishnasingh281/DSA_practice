@@ -6,7 +6,6 @@ class Solution:
             return n
         
         max_len = cur_sum = left = 0
-        
         for right, val in enumerate(nums):
             cur_sum += val
             while left <= right and cur_sum > target:
