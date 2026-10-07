@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/krishnasingh281/DSA_practice/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/krishnasingh281/DSA_practice/tree/master/3904-smallest-stable-index-ii) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/krishnasingh281/DSA_practice/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/krishnasingh281/DSA_practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishnasingh281/DSA_practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnasingh281/DSA_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/krishnasingh281/DSA_practice/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/krishnasingh281/DSA_practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishnasingh281/DSA_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishnasingh281/DSA_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishnasingh281/DSA_practice/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/krishnasingh281/DSA_practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishnasingh281/DSA_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishnasingh281/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/krishnasingh281/DSA_practice/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/krishnasingh281/DSA_practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Union-Find
 |  |
 | ------- |
@@ -323,4 +327,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/krishnasingh281/DSA_practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Counting
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/krishnasingh281/DSA_practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/krishnasingh281/DSA_practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
