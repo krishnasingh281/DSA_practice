@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasingh281/DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/krishnasingh281/DSA_practice/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishnasingh281/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/krishnasingh281/DSA_practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnasingh281/DSA_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishnasingh281/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishnasingh281/DSA_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
 |  |
